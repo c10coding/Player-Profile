@@ -1,0 +1,7 @@
+name: PlayerProfile
+version: ${project.version}
+main: me.c10coding.playerprofile.PlayerProfile
+depend:
+  - Vault
+  - LuckPerms
+  - LevelPoints
