@@ -1,7 +1,8 @@
 name: PlayerProfile
 version: ${project.version}
 main: me.c10coding.playerprofile.PlayerProfile
+softdepend:
+  - PlaceholderAPI
 depend:
   - Vault
   - LuckPerms
-  - LevelPoints

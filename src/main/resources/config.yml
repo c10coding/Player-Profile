@@ -1,6 +1,6 @@
-Settings:
-  Player Name: true
-  Nickname: true
-  Balance: true
-  Level: true
+Lines:
+  - "Player Name: %player_name%"
+  - "Nickname: %nickName%"
+  - "Balance: %balance%"
+  - "Level: %LevelPoints_player_level%"
 
